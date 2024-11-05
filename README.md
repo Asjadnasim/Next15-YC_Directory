@@ -23,3 +23,7 @@ then run the command "npm run typegen" whenever we needs new type
 ## We use sanity live content api for fast publishing without refreshing
 
 run command npm i server-only
+
+## Startup Card Details
+
+npm i markdown-it for Markdown parser done right. Fast and easy to extend
