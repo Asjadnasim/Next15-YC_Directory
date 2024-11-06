@@ -37,3 +37,7 @@ Go to sanity project -> api -> and create token -> editor
 npm i @uiw/react-md-editor for markdown preview "A simple markdown editor with preview, implemented with React.js and TypeScript. "
 
 new useActionState Hook use for creating form
+
+## Server Action
+
+npm i slugify for convert title to slug
